@@ -1,5 +1,4 @@
 # hasher
----
 
 ![image](http://i.imgur.com/XN2AMcA.png)
 
